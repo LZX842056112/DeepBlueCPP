@@ -11,20 +11,20 @@ double conversion_c(double c) {
 int main() {
     int num;
     double f, c;
-    std::cout << "ÇëÑ¡Ôñ×ª»»ÀàÐÍ (1. »ªÊÏ×ªÉãÊÏ, 2. ÉãÊÏ×ª»ªÊÏ)£º";
+    std::cout << "è¯·é€‰æ‹©è½¬æ¢ç±»åž‹ (1. åŽæ°è½¬æ‘„æ°, 2. æ‘„æ°è½¬åŽæ°)ï¼š";
     std::cin >> num;
     switch (num) {
         case 1:
-            std::cout << "ÇëÊäÈë»ªÊÏÎÂ¶È£º";
+            std::cout << "è¯·è¾“å…¥åŽæ°æ¸©åº¦ï¼š";
             std::cin >> f;
-            std::cout << "¶ÔÓ¦µÄÉãÊÏÎÂ¶ÈÎª£º" << conversion_f(f) << " ÉãÊÏ¶È" << std::endl;
+            std::cout << "å¯¹åº”çš„æ‘„æ°æ¸©åº¦ä¸ºï¼š" << conversion_f(f) << " æ‘„æ°åº¦" << std::endl;
             break;
         case 2:
-            std::cout << "ÇëÊäÈëÉãÊÏÎÂ¶È£º";
+            std::cout << "è¯·è¾“å…¥æ‘„æ°æ¸©åº¦ï¼š";
             std::cin >> c;
-            std::cout << "¶ÔÓ¦µÄ»ªÊÏÎÂ¶ÈÎª£º" << conversion_c(c) << " »ªÊÏ¶È" << std::endl;
+            std::cout << "å¯¹åº”çš„åŽæ°æ¸©åº¦ä¸ºï¼š" << conversion_c(c) << " åŽæ°åº¦" << std::endl;
             break;
         default:
-            std::cout << "ÇëÖØÐÂÊäÈë!(1. »ªÊÏ×ªÉãÊÏ, 2. ÉãÊÏ×ª»ªÊÏ)";
+            std::cout << "è¯·é‡æ–°è¾“å…¥!(1. åŽæ°è½¬æ‘„æ°, 2. æ‘„æ°è½¬åŽæ°)";
     }
 }
