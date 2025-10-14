@@ -346,6 +346,12 @@
 //     // str[0] = 'A'; // 错误！不能修改常量引用
 // }
 //
+// void fun1(int *ptr) {
+//     if (ptr != nullptr) {
+//         *ptr = 100;
+//     }
+// }
+//
 // int main() {
 //     Student s1 = {'x', 19, 3, "Lucy"};
 //     s1 = {.gender = 'y'};
@@ -430,6 +436,8 @@
 //
 //     std::string message = "Hello";
 //     printLength(message);
+//
+//     fun1(nullptr);
 //
 //     return 0;
 // }
