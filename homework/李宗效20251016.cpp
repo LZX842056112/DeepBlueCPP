@@ -8,11 +8,12 @@ int fibnacci(int n) {
 
 int main() {
     auto start = std::chrono::high_resolution_clock::now();
-    int res = fibnacci(20);
+    for (int i = 0; i < 1000000; i++) {
+        fibnacci(20);
+    }
     auto end = std::chrono::high_resolution_clock::now();
-    std::cout << res << std::endl;
     auto duration = std::chrono::duration_cast<std::chrono::microseconds>(end - start);
-    std::cout << duration.count() << std::endl;
+    std::cout << duration.count() << std::endl;// 42262723
 
     return 0;
 }
