@@ -3004,6 +3004,17 @@
 //     std::cout << "Result: " << result2 << "\n";
 //     std::cout << "*********************************" << std::endl;
 //
+//     int age;
+//     std::cout << "请输入您的年龄：" ;  // 提示用户输入
+//     std::cin >> age;                // 从标准输入读取整数
+//     std::cout << "您的年龄是：" << age << std::endl; // 输出到标准输出
+//     if (age < 0) {
+//         std::cerr << "错误：年龄不能为负数！" << std::endl; // 输出错误信息
+//     } else {
+//         std::clog << "日志：用户输入了有效年龄 " << age << std::endl; // 记录日志
+//     }
+//     std::cout << "*********************************" << std::endl;
+//
 //     char ch;
 //     std::cout << "请输入一个字符：";
 //     std::cin.get(ch); // 读取一个字符（包括空格）
