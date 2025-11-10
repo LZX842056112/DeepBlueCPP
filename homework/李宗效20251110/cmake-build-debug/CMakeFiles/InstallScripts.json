@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Projects/DeepBule/C++Project/calculator_project/cmake-build-debug/cmake_install.cmake",
+		"D:/Projects/DeepBule/C++Project/calculator_project/cmake-build-debug/src/cmake_install.cmake",
+		"D:/Projects/DeepBule/C++Project/calculator_project/cmake-build-debug/lib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

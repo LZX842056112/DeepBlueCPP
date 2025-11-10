@@ -1,0 +1,8 @@
+D:/Projects/DeepBule/C++Project/calculator_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/DeepBule/C++Project/calculator_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Projects/DeepBule/C++Project/calculator_project/cmake-build-debug/src/CMakeFiles/src.dir
+D:/Projects/DeepBule/C++Project/calculator_project/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+D:/Projects/DeepBule/C++Project/calculator_project/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+D:/Projects/DeepBule/C++Project/calculator_project/cmake-build-debug/lib/CMakeFiles/lib.dir
+D:/Projects/DeepBule/C++Project/calculator_project/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+D:/Projects/DeepBule/C++Project/calculator_project/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
