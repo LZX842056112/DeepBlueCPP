@@ -1,0 +1,10 @@
+^D:\PROJECTS\DEEPBULE\C++PROJECT\DAY38\BUILD\CMAKEFILES\FAB39638AD8F4E6795C4BF8E865B4385\GENERATE.STAMP.RULE
+setlocal
+C:\MySoftware\CMake\bin\cmake.exe -SD:/Projects/DeepBule/C++Project/day38 -BD:/Projects/DeepBule/C++Project/day38/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Projects/DeepBule/C++Project/day38/build/MnistCpp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

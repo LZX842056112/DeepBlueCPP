@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\DeepBule\\C\u002B\u002BProject\\TensorRTVerifyCpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E17D47D-C89F-4A8C-B131-30DF32101284}|TensorRTVerifyCpp\\TensorRTVerifyCpp.vcxproj|D:\\Projects\\DeepBule\\C\u002B\u002BProject\\TensorRTVerifyCpp\\TensorRTVerifyCpp\\TensorRTVerifyCpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E17D47D-C89F-4A8C-B131-30DF32101284}|TensorRTVerifyCpp\\TensorRTVerifyCpp.vcxproj|solutionrelative:TensorRTVerifyCpp\\TensorRTVerifyCpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TensorRTVerifyCpp.cpp",
+              "DocumentMoniker": "D:\\Projects\\DeepBule\\C\u002B\u002BProject\\TensorRTVerifyCpp\\TensorRTVerifyCpp\\TensorRTVerifyCpp.cpp",
+              "RelativeDocumentMoniker": "TensorRTVerifyCpp\\TensorRTVerifyCpp.cpp",
+              "ToolTip": "D:\\Projects\\DeepBule\\C\u002B\u002BProject\\TensorRTVerifyCpp\\TensorRTVerifyCpp\\TensorRTVerifyCpp.cpp",
+              "RelativeToolTip": "TensorRTVerifyCpp\\TensorRTVerifyCpp.cpp",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAiwGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T09:08:41.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
